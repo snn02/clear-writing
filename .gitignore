@@ -1,0 +1,5 @@
+# Track only the files intended for this skill's public repository.
+/*
+!/SKILL.md
+!/README.md
+!/.gitignore
